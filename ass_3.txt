@@ -1,0 +1,6 @@
+I am using ubuntu.
+I am writing my third assignment
+In this script I am going too count the frequency of each word.
+count occurrences of word in file in linux
+shell script to count number of words in a file
+count occurrences of all words in file linux
